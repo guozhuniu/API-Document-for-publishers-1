@@ -6,7 +6,7 @@
 2. [接入文档](request_and_response.md)
 3. [接入代码示例](sample_of_request_and_response.md)
 
-## This document is used when the developer requests the ZPLAY Ads advertising platform according to API interface
+## This document is API interface that is used when the developer requests the ZPLAY Ads advertising platform
 
 ### Document in English
 

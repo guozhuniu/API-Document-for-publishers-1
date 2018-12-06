@@ -16,7 +16,7 @@
 
 - 请确保请求中的应用 ID、应用名称、应用分类、广告位 ID、广告位类型与注册时填写信息保持一致
 
-## 3. Android 使用 WebView 加载 ZPALY Ads HTML
+## 3. Android 使用 WebView 加载 ZPLAY Ads HTML
 
 a. 允许 WebView 执行 Javascript 代码
 
@@ -55,7 +55,7 @@ d. Android 响应 WebView 的 close 事件示例
 
 - 关闭事件会回调`ZPLAYAdsJavascriptInterface.onCloseSelected()`方法，请在此方法中处理关闭事务。
 
-## 4. iOS 使用 WKWebView 加载 ZPALY Ads HTML
+## 4. iOS 使用 WKWebView 加载 ZPLAY Ads HTML
 
 a. WKWebView 添加`zplayads`脚本消息处理程序
 

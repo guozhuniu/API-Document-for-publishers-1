@@ -16,7 +16,7 @@
 
 - Please make sure the app_id, app_name, app_cat, ad_unit_id, unit_type in request are same with the corresponding values that you have registered on [ZPLAY Ads Platform](https://wwww.zplayads.com) in advance.
 
-## 3. Using WebView to Load ZPALY Ads HTML on Android device
+## 3. Using WebView to Load ZPLAY Ads HTML on Android device
 
 a. allow WebView to execute Javascript
 
@@ -55,7 +55,7 @@ d. respond close event of WebView
 
 - `ZPLAYAdsJavascriptInterface.onCloseSelected()` method will be invoked when ad is closed，please close the WebView in this method.
 
-## 4. Using WKWebView to Load ZPALY Ads HTML on iOS device
+## 4. Using WKWebView to Load ZPLAY Ads HTML on iOS device
 
 a. Add `zplayads` script message handle in WKWebView
 

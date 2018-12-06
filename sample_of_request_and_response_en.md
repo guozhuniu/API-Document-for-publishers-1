@@ -53,8 +53,7 @@
   "app": {
     "app_id": "A650AB0D-7BFC-2A81-3066-D3170947C3DA",
     "app_name": "app_name",
-    "bundel_name": "com.playableads.demo",
-    "bundle_id": "bundle_id",
+    "bundle_id": "com.playableads.demo",
     "version": "1.0",
     "cat": "cat"
   },
@@ -140,8 +139,7 @@
   "app": {
     "app_id": "A650AB0D-7BFC-2A81-3066-D3170947C3DA",
     "app_name": "app_name",
-    "bundel_name": "com.playableads.demo",
-    "bundle_id": "bundle_id",
+    "bundle_id": "com.playableads.demo",
     "version": "1.0",
     "cat": "cat"
   },
@@ -300,8 +298,7 @@
   "app": {
     "app_id": "A650AB0D-7BFC-2A81-3066-D3170947C3DA",
     "app_name": "app_name",
-    "bundel_name": "com.playableads.demo",
-    "bundle_id": "bundle_id",
+    "bundle_id": "com.playableads.demo",
     "version": "1.0",
     "cat": "cat"
   },
@@ -389,8 +386,7 @@
   "app": {
     "app_id": "5C5419C7-A2DE-88BC-A311-C3E7A646F6AF",
     "app_name": "app_name",
-    "bundel_name": "com.playableads.demo",
-    "bundle_id": "bundle_id",
+    "bundle_id": "com.playableads.demo",
     "version": "1.0",
     "cat": "cat"
   },
@@ -476,8 +472,7 @@
   "app": {
     "app_id": "5C5419C7-A2DE-88BC-A311-C3E7A646F6AF",
     "app_name": "app_name",
-    "bundel_name": "com.playableads.demo",
-    "bundle_id": "bundle_id",
+    "bundle_id": "com.playableads.demo",
     "version": "1.0",
     "cat": "cat"
   },
@@ -636,8 +631,7 @@
   "app": {
     "app_id": "5C5419C7-A2DE-88BC-A311-C3E7A646F6AF",
     "app_name": "app_name",
-    "bundel_name": "com.playableads.demo",
-    "bundle_id": "bundle_id",
+    "bundle_id": "com.playableads.demo",
     "version": "1.0",
     "cat": "cat"
   },
